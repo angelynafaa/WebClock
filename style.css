@@ -1,0 +1,10 @@
+.clock{
+    width: 400px;
+    background-color: cadetblue;
+    padding: 30px;
+    color: cornsilk;
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+
+}
